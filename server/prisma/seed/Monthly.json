@@ -1,0 +1,482 @@
+[
+  {
+    "year": 2018,
+    "month": "JANUARY",
+    "damage_to_property": 2743,
+    "fatal": 7,
+    "non_fatal_injury": 403,
+    "grand_total": 3153
+  },
+  {
+    "year": 2018,
+    "month": "FEBUARY",
+    "damage_to_property": 2621,
+    "fatal": 7,
+    "non_fatal_injury": 423,
+    "grand_total": 3051
+  },
+  {
+    "year": 2018,
+    "month": "MARCH",
+    "damage_to_property": 2711,
+    "fatal": 12,
+    "non_fatal_injury": 475,
+    "grand_total": 3198
+  },
+  {
+    "year": 2018,
+    "month": "APRIL",
+    "damage_to_property": 2573,
+    "fatal": 7,
+    "non_fatal_injury": 417,
+    "grand_total": 2997
+  },
+  {
+    "year": 2018,
+    "month": "MAY",
+    "damage_to_property": 2721,
+    "fatal": 10,
+    "non_fatal_injury": 432,
+    "grand_total": 3163
+  },
+  {
+    "year": 2018,
+    "month": "JUNE",
+    "damage_to_property": 2703,
+    "fatal": 12,
+    "non_fatal_injury": 437,
+    "grand_total": 3152
+  },
+  {
+    "year": 2018,
+    "month": "JULY",
+    "damage_to_property": 2826,
+    "fatal": 7,
+    "non_fatal_injury": 447,
+    "grand_total": 3280
+  },
+  {
+    "year": 2018,
+    "month": "AUGUST",
+    "damage_to_property": 2996,
+    "fatal": 9,
+    "non_fatal_injury": 492,
+    "grand_total": 3497
+  },
+  {
+    "year": 2018,
+    "month": "SEPTEMBER",
+    "damage_to_property": 3067,
+    "fatal": 5,
+    "non_fatal_injury": 409,
+    "grand_total": 3481
+  },
+  {
+    "year": 2018,
+    "month": "OCTOBER",
+    "damage_to_property": 3001,
+    "fatal": 10,
+    "non_fatal_injury": 472,
+    "grand_total": 3483
+  },
+  {
+    "year": 2018,
+    "month": "NOVEMBER",
+    "damage_to_property": 2528,
+    "fatal": 7,
+    "non_fatal_injury": 393,
+    "grand_total": 2928
+  },
+  {
+    "year": 2018,
+    "month": "DECEMBER",
+    "damage_to_property": 3025,
+    "fatal": 12,
+    "non_fatal_injury": 547,
+    "grand_total": 3584
+  },
+  {
+    "year": 2019,
+    "month": "JANUARY",
+    "damage_to_property": 2640,
+    "fatal": 10,
+    "non_fatal_injury": 458,
+    "grand_total": 3108
+  },
+  {
+    "year": 2019,
+    "month": "FEBUARY",
+    "damage_to_property": 2675,
+    "fatal": 10,
+    "non_fatal_injury": 498,
+    "grand_total": 3183
+  },
+  {
+    "year": 2019,
+    "month": "MARCH",
+    "damage_to_property": 2964,
+    "fatal": 7,
+    "non_fatal_injury": 547,
+    "grand_total": 3518
+  },
+  {
+    "year": 2019,
+    "month": "APRIL",
+    "damage_to_property": 2496,
+    "fatal": 8,
+    "non_fatal_injury": 441,
+    "grand_total": 2945
+  },
+  {
+    "year": 2019,
+    "month": "MAY",
+    "damage_to_property": 2676,
+    "fatal": 4,
+    "non_fatal_injury": 444,
+    "grand_total": 3124
+  },
+  {
+    "year": 2019,
+    "month": "JUNE",
+    "damage_to_property": 2740,
+    "fatal": 9,
+    "non_fatal_injury": 485,
+    "grand_total": 3234
+  },
+  {
+    "year": 2019,
+    "month": "JULY",
+    "damage_to_property": 2914,
+    "fatal": 9,
+    "non_fatal_injury": 547,
+    "grand_total": 3470
+  },
+  {
+    "year": 2019,
+    "month": "AUGUST",
+    "damage_to_property": 2989,
+    "fatal": 12,
+    "non_fatal_injury": 517,
+    "grand_total": 3518
+  },
+  {
+    "year": 2019,
+    "month": "SEPTEMBER",
+    "damage_to_property": 2875,
+    "fatal": 13,
+    "non_fatal_injury": 499,
+    "grand_total": 3387
+  },
+  {
+    "year": 2019,
+    "month": "OCTOBER",
+    "damage_to_property": 3162,
+    "fatal": 9,
+    "non_fatal_injury": 540,
+    "grand_total": 3711
+  },
+  {
+    "year": 2019,
+    "month": "NOVEMBER",
+    "damage_to_property": 2767,
+    "fatal": 11,
+    "non_fatal_injury": 515,
+    "grand_total": 3293
+  },
+  {
+    "year": 2019,
+    "month": "DECEMBER",
+    "damage_to_property": 2742,
+    "fatal": 10,
+    "non_fatal_injury": 554,
+    "grand_total": 3306
+  },
+  {
+    "year": 2020,
+    "month": "JANUARY",
+    "damage_to_property": 2156,
+    "fatal": 8,
+    "non_fatal_injury": 479,
+    "grand_total": 2643
+  },
+  {
+    "year": 2020,
+    "month": "FEBUARY",
+    "damage_to_property": 2831,
+    "fatal": 11,
+    "non_fatal_injury": 552,
+    "grand_total": 3394
+  },
+  {
+    "year": 2020,
+    "month": "MARCH",
+    "damage_to_property": 1462,
+    "fatal": 3,
+    "non_fatal_injury": 365,
+    "grand_total": 1830
+  },
+  {
+    "year": 2020,
+    "month": "APRIL",
+    "damage_to_property": 249,
+    "fatal": 1,
+    "non_fatal_injury": 164,
+    "grand_total": 414
+  },
+  {
+    "year": 2020,
+    "month": "MAY",
+    "damage_to_property": 626,
+    "fatal": 9,
+    "non_fatal_injury": 244,
+    "grand_total": 879
+  },
+  {
+    "year": 2020,
+    "month": "JUNE",
+    "damage_to_property": 1359,
+    "fatal": 6,
+    "non_fatal_injury": 326,
+    "grand_total": 1691
+  },
+  {
+    "year": 2020,
+    "month": "JULY",
+    "damage_to_property": 1496,
+    "fatal": 13,
+    "non_fatal_injury": 363,
+    "grand_total": 1872
+  },
+  {
+    "year": 2020,
+    "month": "AUGUST",
+    "damage_to_property": 1304,
+    "fatal": 10,
+    "non_fatal_injury": 361,
+    "grand_total": 1675
+  },
+  {
+    "year": 2020,
+    "month": "SEPTEMBER",
+    "damage_to_property": 1341,
+    "fatal": 5,
+    "non_fatal_injury": 376,
+    "grand_total": 1722
+  },
+  {
+    "year": 2020,
+    "month": "OCTOBER",
+    "damage_to_property": 1898,
+    "fatal": 6,
+    "non_fatal_injury": 447,
+    "grand_total": 2351
+  },
+  {
+    "year": 2020,
+    "month": "NOVEMBER",
+    "damage_to_property": 1485,
+    "fatal": 10,
+    "non_fatal_injury": 413,
+    "grand_total": 1908
+  },
+  {
+    "year": 2020,
+    "month": "DECEMBER",
+    "damage_to_property": 1613,
+    "fatal": 12,
+    "non_fatal_injury": 490,
+    "grand_total": 2115
+  },
+  {
+    "year": 2021,
+    "month": "JANUARY",
+    "damage_to_property": 1397,
+    "fatal": 10,
+    "non_fatal_injury": 420,
+    "grand_total": 1827
+  },
+  {
+    "year": 2021,
+    "month": "FEBUARY",
+    "damage_to_property": 1402,
+    "fatal": 11,
+    "non_fatal_injury": 428,
+    "grand_total": 1841
+  },
+  {
+    "year": 2021,
+    "month": "MARCH",
+    "damage_to_property": 1178,
+    "fatal": 6,
+    "non_fatal_injury": 441,
+    "grand_total": 1625
+  },
+  {
+    "year": 2021,
+    "month": "APRIL",
+    "damage_to_property": 916,
+    "fatal": 10,
+    "non_fatal_injury": 379,
+    "grand_total": 1305
+  },
+  {
+    "year": 2021,
+    "month": "MAY",
+    "damage_to_property": 1412,
+    "fatal": 6,
+    "non_fatal_injury": 393,
+    "grand_total": 1811
+  },
+  {
+    "year": 2021,
+    "month": "JUNE",
+    "damage_to_property": 1572,
+    "fatal": 13,
+    "non_fatal_injury": 482,
+    "grand_total": 2067
+  },
+  {
+    "year": 2021,
+    "month": "JULY",
+    "damage_to_property": 1455,
+    "fatal": 11,
+    "non_fatal_injury": 415,
+    "grand_total": 1881
+  },
+  {
+    "year": 2021,
+    "month": "AUGUST",
+    "damage_to_property": 1047,
+    "fatal": 18,
+    "non_fatal_injury": 388,
+    "grand_total": 1453
+  },
+  {
+    "year": 2021,
+    "month": "SEPTEMBER",
+    "damage_to_property": 1281,
+    "fatal": 14,
+    "non_fatal_injury": 448,
+    "grand_total": 1743
+  },
+  {
+    "year": 2021,
+    "month": "OCTOBER",
+    "damage_to_property": 1399,
+    "fatal": 12,
+    "non_fatal_injury": 432,
+    "grand_total": 1843
+  },
+  {
+    "year": 2021,
+    "month": "NOVEMBER",
+    "damage_to_property": 1722,
+    "fatal": 9,
+    "non_fatal_injury": 506,
+    "grand_total": 2237
+  },
+  {
+    "year": 2021,
+    "month": "DECEMBER",
+    "damage_to_property": 1843,
+    "fatal": 10,
+    "non_fatal_injury": 492,
+    "grand_total": 2345
+  },
+  {
+    "year": 2022,
+    "month": "JANUARY",
+    "damage_to_property": 1086,
+    "fatal": 15,
+    "non_fatal_injury": 457,
+    "grand_total": 1558
+  },
+  {
+    "year": 2022,
+    "month": "FEBUARY",
+    "damage_to_property": 1289,
+    "fatal": 10,
+    "non_fatal_injury": 422,
+    "grand_total": 1721
+  },
+  {
+    "year": 2022,
+    "month": "MARCH",
+    "damage_to_property": 1492,
+    "fatal": 7,
+    "non_fatal_injury": 521,
+    "grand_total": 2020
+  },
+  {
+    "year": 2022,
+    "month": "APRIL",
+    "damage_to_property": 1523,
+    "fatal": 7,
+    "non_fatal_injury": 539,
+    "grand_total": 2069
+  },
+  {
+    "year": 2022,
+    "month": "MAY",
+    "damage_to_property": 1504,
+    "fatal": 7,
+    "non_fatal_injury": 456,
+    "grand_total": 1967
+  },
+  {
+    "year": 2022,
+    "month": "JUNE",
+    "damage_to_property": 1602,
+    "fatal": 10,
+    "non_fatal_injury": 600,
+    "grand_total": 2212
+  },
+  {
+    "year": 2022,
+    "month": "JULY",
+    "damage_to_property": 1563,
+    "fatal": 12,
+    "non_fatal_injury": 523,
+    "grand_total": 2098
+  },
+  {
+    "year": 2022,
+    "month": "AUGUST",
+    "damage_to_property": 1826,
+    "fatal": 16,
+    "non_fatal_injury": 545,
+    "grand_total": 2387
+  },
+  {
+    "year": 2022,
+    "month": "SEPTEMBER",
+    "damage_to_property": 1730,
+    "fatal": 10,
+    "non_fatal_injury": 542,
+    "grand_total": 2282
+  },
+  {
+    "year": 2022,
+    "month": "OCTOBER",
+    "damage_to_property": 1938,
+    "fatal": 11,
+    "non_fatal_injury": 614,
+    "grand_total": 2563
+  },
+  {
+    "year": 2022,
+    "month": "NOVEMBER",
+    "damage_to_property": 1873,
+    "fatal": 11,
+    "non_fatal_injury": 648,
+    "grand_total": 2532
+  },
+  {
+    "year": 2022,
+    "month": "DECEMBER",
+    "damage_to_property": 1744,
+    "fatal": 7,
+    "non_fatal_injury": 555,
+    "grand_total": 2306
+  }
+]

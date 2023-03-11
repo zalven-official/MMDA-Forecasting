@@ -1,0 +1,669 @@
+[
+  {
+    "year": 2018,
+    "collision_type": "ANGLE_IMPACT",
+    "damage_to_property": 2342,
+    "fatal": 7,
+    "non_fatal_injury": 533,
+    "grand_total": 2882
+  },
+  {
+    "year": 2018,
+    "collision_type": "HEAD_ON",
+    "damage_to_property": 172,
+    "fatal": 2,
+    "non_fatal_injury": 67,
+    "grand_total": 241
+  },
+  {
+    "year": 2018,
+    "collision_type": "HIT_AND_RUN",
+    "damage_to_property": 1038,
+    "fatal": 4,
+    "non_fatal_injury": 121,
+    "grand_total": 1163
+  },
+  {
+    "year": 2018,
+    "collision_type": "ANGLE_IMPACT",
+    "damage_to_property": 43,
+    "non_fatal_injury": 11,
+    "grand_total": 54
+  },
+  {
+    "year": 2018,
+    "collision_type": "HEAD_ON",
+    "damage_to_property": 3,
+    "non_fatal_injury": 1,
+    "grand_total": 4
+  },
+  {
+    "year": 2018,
+    "collision_type": "HIT_PARKED_VEHICLE",
+    "damage_to_property": 101,
+    "grand_total": 101
+  },
+  {
+    "year": 2018,
+    "collision_type": "HIT_PEDESTRIAN",
+    "fatal": 4,
+    "non_fatal_injury": 61,
+    "grand_total": 65
+  },
+  {
+    "year": 2018,
+    "collision_type": "REAR_END",
+    "damage_to_property": 194,
+    "fatal": 1,
+    "non_fatal_injury": 22,
+    "grand_total": 217
+  },
+  {
+    "year": 2018,
+    "collision_type": "SIDE_SWIPE",
+    "damage_to_property": 410,
+    "non_fatal_injury": 36,
+    "grand_total": 446
+  },
+  {
+    "year": 2018,
+    "collision_type": "HIT_OBJECT",
+    "damage_to_property": 644,
+    "fatal": 12,
+    "non_fatal_injury": 117,
+    "grand_total": 773
+  },
+  {
+    "year": 2018,
+    "collision_type": "HIT_PARKED_VEHICLE",
+    "damage_to_property": 727,
+    "non_fatal_injury": 21,
+    "grand_total": 748
+  },
+  {
+    "year": 2018,
+    "collision_type": "HIT_PEDESTRIAN",
+    "fatal": 37,
+    "non_fatal_injury": 1028,
+    "grand_total": 1065
+  },
+  {
+    "year": 2018,
+    "collision_type": "MULTIPLE_COLLISION",
+    "damage_to_property": 858,
+    "fatal": 3,
+    "non_fatal_injury": 243,
+    "grand_total": 1104
+  },
+  {
+    "year": 2018,
+    "collision_type": "NO_COLLISION_STATED",
+    "damage_to_property": 3366,
+    "fatal": 9,
+    "non_fatal_injury": 783,
+    "grand_total": 4158
+  },
+  {
+    "year": 2018,
+    "collision_type": "REAR_END",
+    "damage_to_property": 10959,
+    "fatal": 5,
+    "non_fatal_injury": 797,
+    "grand_total": 11761
+  },
+  {
+    "year": 2018,
+    "collision_type": "SELF_ACCIDENT",
+    "damage_to_property": 998,
+    "fatal": 16,
+    "non_fatal_injury": 384,
+    "grand_total": 1398
+  },
+  {
+    "year": 2018,
+    "collision_type": "SIDE_SWIPE",
+    "damage_to_property": 11660,
+    "fatal": 5,
+    "non_fatal_injury": 1122,
+    "grand_total": 12787
+  },
+  {
+    "year": 2019,
+    "collision_type": "ANGLE_IMPACT",
+    "damage_to_property": 3104,
+    "fatal": 4,
+    "non_fatal_injury": 780,
+    "grand_total": 3888
+  },
+  {
+    "year": 2019,
+    "collision_type": "HEAD_ON",
+    "damage_to_property": 251,
+    "fatal": 2,
+    "non_fatal_injury": 106,
+    "grand_total": 359
+  },
+  {
+    "year": 2019,
+    "collision_type": "HIT_AND_RUN",
+    "damage_to_property": 992,
+    "fatal": 4,
+    "non_fatal_injury": 180,
+    "grand_total": 1176
+  },
+  {
+    "year": 2019,
+    "collision_type": "ANGLE_IMPACT",
+    "damage_to_property": 69,
+    "non_fatal_injury": 13,
+    "grand_total": 82
+  },
+  {
+    "year": 2019,
+    "collision_type": "HEAD_ON",
+    "damage_to_property": 4,
+    "non_fatal_injury": 1,
+    "grand_total": 5
+  },
+  {
+    "year": 2019,
+    "collision_type": "HIT_PARKED_VEHICLE",
+    "damage_to_property": 103,
+    "grand_total": 103
+  },
+  {
+    "year": 2019,
+    "collision_type": "HIT_PEDESTRIAN",
+    "fatal": 4,
+    "non_fatal_injury": 38,
+    "grand_total": 42
+  },
+  {
+    "year": 2019,
+    "collision_type": "REAR_END",
+    "damage_to_property": 258,
+    "non_fatal_injury": 27,
+    "grand_total": 285
+  },
+  {
+    "year": 2019,
+    "collision_type": "SIDE_SWIPE",
+    "damage_to_property": 578,
+    "non_fatal_injury": 56,
+    "grand_total": 634
+  },
+  {
+    "year": 2019,
+    "collision_type": "HIT_OBJECT",
+    "damage_to_property": 680,
+    "fatal": 9,
+    "non_fatal_injury": 101,
+    "grand_total": 790
+  },
+  {
+    "year": 2019,
+    "collision_type": "HIT_PARKED_VEHICLE",
+    "damage_to_property": 599,
+    "fatal": 1,
+    "non_fatal_injury": 16,
+    "grand_total": 616
+  },
+  {
+    "year": 2019,
+    "collision_type": "HIT_PEDESTRIAN",
+    "fatal": 28,
+    "non_fatal_injury": 913,
+    "grand_total": 941
+  },
+  {
+    "year": 2019,
+    "collision_type": "MULTIPLE_COLLISION",
+    "damage_to_property": 941,
+    "fatal": 8,
+    "non_fatal_injury": 334,
+    "grand_total": 1283
+  },
+  {
+    "year": 2019,
+    "collision_type": "NO_COLLISION_STATED",
+    "damage_to_property": 1824,
+    "fatal": 19,
+    "non_fatal_injury": 650,
+    "grand_total": 2493
+  },
+  {
+    "year": 2019,
+    "collision_type": "NOT_STATED",
+    "damage_to_property": 10,
+    "non_fatal_injury": 15,
+    "grand_total": 25
+  },
+  {
+    "year": 2019,
+    "collision_type": "REAR_END",
+    "damage_to_property": 10118,
+    "fatal": 16,
+    "non_fatal_injury": 774,
+    "grand_total": 10908
+  },
+  {
+    "year": 2019,
+    "collision_type": "SELF_ACCIDENT",
+    "damage_to_property": 501,
+    "fatal": 9,
+    "non_fatal_injury": 499,
+    "grand_total": 1009
+  },
+  {
+    "year": 2019,
+    "collision_type": "SIDE_SWIPE",
+    "damage_to_property": 13608,
+    "fatal": 8,
+    "non_fatal_injury": 1542,
+    "grand_total": 15158
+  },
+  {
+    "year": 2020,
+    "collision_type": "ANGLE_IMPACT",
+    "damage_to_property": 2148,
+    "fatal": 6,
+    "non_fatal_injury": 651,
+    "grand_total": 2805
+  },
+  {
+    "year": 2020,
+    "collision_type": "HEAD_ON",
+    "damage_to_property": 209,
+    "non_fatal_injury": 102,
+    "grand_total": 311
+  },
+  {
+    "year": 2020,
+    "collision_type": "HIT_AND_RUN",
+    "damage_to_property": 401,
+    "fatal": 2,
+    "non_fatal_injury": 106,
+    "grand_total": 509
+  },
+  {
+    "year": 2020,
+    "collision_type": "ANGLE_IMPACT",
+    "damage_to_property": 85,
+    "non_fatal_injury": 13,
+    "grand_total": 98
+  },
+  {
+    "year": 2020,
+    "collision_type": "HEAD_ON",
+    "damage_to_property": 12,
+    "non_fatal_injury": 2,
+    "grand_total": 14
+  },
+  {
+    "year": 2020,
+    "collision_type": "HIT_PARKED_VEHICLE",
+    "damage_to_property": 151,
+    "grand_total": 151
+  },
+  {
+    "year": 2020,
+    "collision_type": "HIT_PEDESTRIAN",
+    "non_fatal_injury": 27,
+    "grand_total": 27
+  },
+  {
+    "year": 2020,
+    "collision_type": "MULTIPLE_COLLISION",
+    "non_fatal_injury": 1,
+    "grand_total": 1
+  },
+  {
+    "year": 2020,
+    "collision_type": "REAR_END",
+    "damage_to_property": 202,
+    "fatal": 1,
+    "non_fatal_injury": 25,
+    "grand_total": 228
+  },
+  {
+    "year": 2020,
+    "collision_type": "SIDE_SWIPE",
+    "damage_to_property": 394,
+    "fatal": 1,
+    "non_fatal_injury": 57,
+    "grand_total": 452
+  },
+  {
+    "year": 2020,
+    "collision_type": "HIT_OBJECT",
+    "damage_to_property": 725,
+    "fatal": 18,
+    "non_fatal_injury": 119,
+    "grand_total": 862
+  },
+  {
+    "year": 2020,
+    "collision_type": "HIT_PARKED_VEHICLE",
+    "damage_to_property": 271,
+    "non_fatal_injury": 9,
+    "grand_total": 280
+  },
+  {
+    "year": 2020,
+    "collision_type": "HIT_PEDESTRIAN",
+    "fatal": 17,
+    "non_fatal_injury": 467,
+    "grand_total": 484
+  },
+  {
+    "year": 2020,
+    "collision_type": "MULTIPLE_COLLISION",
+    "damage_to_property": 561,
+    "fatal": 6,
+    "non_fatal_injury": 267,
+    "grand_total": 834
+  },
+  {
+    "year": 2020,
+    "collision_type": "NO_COLLISION_STATED",
+    "damage_to_property": 1139,
+    "fatal": 8,
+    "non_fatal_injury": 508,
+    "grand_total": 1655
+  },
+  {
+    "year": 2020,
+    "collision_type": "REAR_END",
+    "damage_to_property": 4443,
+    "fatal": 14,
+    "non_fatal_injury": 607,
+    "grand_total": 5064
+  },
+  {
+    "year": 2020,
+    "collision_type": "SELF_ACCIDENT",
+    "damage_to_property": 328,
+    "fatal": 11,
+    "non_fatal_injury": 433,
+    "grand_total": 772
+  },
+  {
+    "year": 2020,
+    "collision_type": "SIDE_SWIPE",
+    "damage_to_property": 6751,
+    "fatal": 10,
+    "non_fatal_injury": 1186,
+    "grand_total": 7947
+  },
+  {
+    "year": 2021,
+    "collision_type": "ANGLE_IMPACT",
+    "damage_to_property": 2475,
+    "fatal": 11,
+    "non_fatal_injury": 1013,
+    "grand_total": 3499
+  },
+  {
+    "year": 2021,
+    "collision_type": "HEAD_ON",
+    "damage_to_property": 160,
+    "fatal": 4,
+    "non_fatal_injury": 124,
+    "grand_total": 288
+  },
+  {
+    "year": 2021,
+    "collision_type": "HIT_AND_RUN",
+    "damage_to_property": 395,
+    "non_fatal_injury": 102,
+    "grand_total": 497
+  },
+  {
+    "year": 2021,
+    "collision_type": "ANGLE_IMPACT",
+    "damage_to_property": 77,
+    "non_fatal_injury": 17,
+    "grand_total": 94
+  },
+  {
+    "year": 2021,
+    "collision_type": "HEAD_ON",
+    "damage_to_property": 2,
+    "non_fatal_injury": 4,
+    "grand_total": 6
+  },
+  {
+    "year": 2021,
+    "collision_type": "HIT_PARKED_VEHICLE",
+    "damage_to_property": 61,
+    "grand_total": 61
+  },
+  {
+    "year": 2021,
+    "collision_type": "HIT_PEDESTRIAN",
+    "fatal": 5,
+    "non_fatal_injury": 16,
+    "grand_total": 21
+  },
+  {
+    "year": 2021,
+    "collision_type": "MULTIPLE_COLLISION",
+    "damage_to_property": 3,
+    "non_fatal_injury": 3,
+    "grand_total": 6
+  },
+  {
+    "year": 2021,
+    "collision_type": "REAR_END",
+    "damage_to_property": 136,
+    "non_fatal_injury": 26,
+    "grand_total": 162
+  },
+  {
+    "year": 2021,
+    "collision_type": "SIDE_SWIPE",
+    "damage_to_property": 319,
+    "fatal": 1,
+    "non_fatal_injury": 67,
+    "grand_total": 387
+  },
+  {
+    "year": 2021,
+    "collision_type": "HIT_OBJECT",
+    "damage_to_property": 739,
+    "fatal": 13,
+    "non_fatal_injury": 146,
+    "grand_total": 898
+  },
+  {
+    "year": 2021,
+    "collision_type": "HIT_PARKED_VEHICLE",
+    "damage_to_property": 313,
+    "fatal": 1,
+    "non_fatal_injury": 12,
+    "grand_total": 326
+  },
+  {
+    "year": 2021,
+    "collision_type": "HIT_PEDESTRIAN",
+    "fatal": 30,
+    "non_fatal_injury": 426,
+    "grand_total": 456
+  },
+  {
+    "year": 2021,
+    "collision_type": "MULTIPLE_COLLISION",
+    "damage_to_property": 589,
+    "fatal": 6,
+    "non_fatal_injury": 278,
+    "grand_total": 873
+  },
+  {
+    "year": 2021,
+    "collision_type": "NO_COLLISION_STATED",
+    "damage_to_property": 1085,
+    "fatal": 8,
+    "non_fatal_injury": 399,
+    "grand_total": 1492
+  },
+  {
+    "year": 2021,
+    "collision_type": "REAR_END",
+    "damage_to_property": 3911,
+    "fatal": 16,
+    "non_fatal_injury": 744,
+    "grand_total": 4671
+  },
+  {
+    "year": 2021,
+    "collision_type": "SELF_ACCIDENT",
+    "damage_to_property": 318,
+    "fatal": 17,
+    "non_fatal_injury": 557,
+    "grand_total": 892
+  },
+  {
+    "year": 2021,
+    "collision_type": "SIDE_SWIPE",
+    "damage_to_property": 6041,
+    "fatal": 18,
+    "non_fatal_injury": 1290,
+    "grand_total": 7349
+  },
+  {
+    "year": 2022,
+    "collision_type": "ANGLE_IMPACT",
+    "damage_to_property": 3069,
+    "fatal": 14,
+    "non_fatal_injury": 1087,
+    "grand_total": 4170
+  },
+  {
+    "year": 2022,
+    "collision_type": "HEAD_ON",
+    "damage_to_property": 145,
+    "fatal": 2,
+    "non_fatal_injury": 119,
+    "grand_total": 266
+  },
+  {
+    "year": 2022,
+    "collision_type": "HIT_AND_RUN",
+    "damage_to_property": 711,
+    "fatal": 5,
+    "non_fatal_injury": 157,
+    "grand_total": 873
+  },
+  {
+    "year": 2022,
+    "collision_type": "ANGLE_IMPACT",
+    "damage_to_property": 85,
+    "non_fatal_injury": 14,
+    "grand_total": 99
+  },
+  {
+    "year": 2022,
+    "collision_type": "HEAD_ON",
+    "damage_to_property": 7,
+    "non_fatal_injury": 3,
+    "grand_total": 10
+  },
+  {
+    "year": 2022,
+    "collision_type": "HIT_PARKED_VEHICLE",
+    "damage_to_property": 36,
+    "grand_total": 36
+  },
+  {
+    "year": 2022,
+    "collision_type": "HIT_PEDESTRIAN",
+    "fatal": 2,
+    "non_fatal_injury": 26,
+    "grand_total": 28
+  },
+  {
+    "year": 2022,
+    "collision_type": "MULTIPLE_COLLISION",
+    "damage_to_property": 2,
+    "non_fatal_injury": 2,
+    "grand_total": 4
+  },
+  {
+    "year": 2022,
+    "collision_type": "REAR_END",
+    "damage_to_property": 97,
+    "non_fatal_injury": 19,
+    "grand_total": 116
+  },
+  {
+    "year": 2022,
+    "collision_type": "SIDE_SWIPE",
+    "damage_to_property": 295,
+    "fatal": 1,
+    "non_fatal_injury": 34,
+    "grand_total": 330
+  },
+  {
+    "year": 2022,
+    "collision_type": "HIT_OBJECT",
+    "damage_to_property": 815,
+    "fatal": 11,
+    "non_fatal_injury": 165,
+    "grand_total": 991
+  },
+  {
+    "year": 2022,
+    "collision_type": "HIT_PARKED_VEHICLE",
+    "damage_to_property": 373,
+    "fatal": 1,
+    "non_fatal_injury": 12,
+    "grand_total": 386
+  },
+  {
+    "year": 2022,
+    "collision_type": "HIT_PEDESTRIAN",
+    "fatal": 35,
+    "non_fatal_injury": 775,
+    "grand_total": 810
+  },
+  {
+    "year": 2022,
+    "collision_type": "MULTIPLE_COLLISION",
+    "damage_to_property": 669,
+    "fatal": 5,
+    "non_fatal_injury": 385,
+    "grand_total": 1059
+  },
+  {
+    "year": 2022,
+    "collision_type": "NO_COLLISION_STATED",
+    "damage_to_property": 365,
+    "fatal": 4,
+    "non_fatal_injury": 191,
+    "grand_total": 560
+  },
+  {
+    "year": 2022,
+    "collision_type": "REAR_END",
+    "damage_to_property": 5000,
+    "fatal": 19,
+    "non_fatal_injury": 1188,
+    "grand_total": 6207
+  },
+  {
+    "year": 2022,
+    "collision_type": "SELF_ACCIDENT",
+    "damage_to_property": 299,
+    "fatal": 13,
+    "non_fatal_injury": 754,
+    "grand_total": 1066
+  },
+  {
+    "year": 2022,
+    "collision_type": "SIDE_SWIPE",
+    "damage_to_property": 7202,
+    "fatal": 11,
+    "non_fatal_injury": 1491,
+    "grand_total": 8704
+  }
+]

@@ -1,0 +1,362 @@
+[
+  {
+    "year": 2018,
+    "vehicle_type": "BIKE",
+    "damage_to_property": 64,
+    "fatal": 2,
+    "non_fatal_injury": 142,
+    "grand_total": 208
+  },
+  {
+    "year": 2018,
+    "vehicle_type": "MOTORCYCLE",
+    "damage_to_property": 4476,
+    "fatal": 56,
+    "non_fatal_injury": 3531,
+    "grand_total": 8063
+  },
+  {
+    "year": 2018,
+    "vehicle_type": "TRICYCLE",
+    "damage_to_property": 569,
+    "fatal": 6,
+    "non_fatal_injury": 277,
+    "grand_total": 852
+  },
+  {
+    "year": 2018,
+    "vehicle_type": "CAR",
+    "damage_to_property": 26919,
+    "fatal": 22,
+    "non_fatal_injury": 2458,
+    "grand_total": 29399
+  },
+  {
+    "year": 2018,
+    "vehicle_type": "PUJ",
+    "damage_to_property": 2738,
+    "fatal": 7,
+    "non_fatal_injury": 476,
+    "grand_total": 3221
+  },
+  {
+    "year": 2018,
+    "vehicle_type": "AUV",
+    "damage_to_property": 2465,
+    "fatal": 4,
+    "non_fatal_injury": 353,
+    "grand_total": 2822
+  },
+  {
+    "year": 2018,
+    "vehicle_type": "BUS",
+    "damage_to_property": 4196,
+    "fatal": 4,
+    "non_fatal_injury": 323,
+    "grand_total": 4523
+  },
+  {
+    "year": 2018,
+    "vehicle_type": "VAN",
+    "damage_to_property": 6017,
+    "fatal": 13,
+    "non_fatal_injury": 512,
+    "grand_total": 6542
+  },
+  {
+    "year": 2018,
+    "vehicle_type": "TRUCK",
+    "damage_to_property": 5181,
+    "fatal": 21,
+    "non_fatal_injury": 388,
+    "grand_total": 5590
+  },
+  {
+    "year": 2019,
+    "vehicle_type": "BIKE",
+    "damage_to_property": 56,
+    "fatal": 3,
+    "non_fatal_injury": 128,
+    "grand_total": 187
+  },
+  {
+    "year": 2019,
+    "vehicle_type": "MOTORCYCLE",
+    "damage_to_property": 4957,
+    "fatal": 69,
+    "non_fatal_injury": 4427,
+    "grand_total": 9453
+  },
+  {
+    "year": 2019,
+    "vehicle_type": "TRICYCLE",
+    "damage_to_property": 581,
+    "fatal": 4,
+    "non_fatal_injury": 332,
+    "grand_total": 917
+  },
+  {
+    "year": 2019,
+    "vehicle_type": "CAR",
+    "damage_to_property": 26595,
+    "fatal": 33,
+    "non_fatal_injury": 2763,
+    "grand_total": 29391
+  },
+  {
+    "year": 2019,
+    "vehicle_type": "PUJ",
+    "damage_to_property": 2950,
+    "fatal": 14,
+    "non_fatal_injury": 493,
+    "grand_total": 3457
+  },
+  {
+    "year": 2019,
+    "vehicle_type": "AUV",
+    "damage_to_property": 3074,
+    "fatal": 6,
+    "non_fatal_injury": 455,
+    "grand_total": 3535
+  },
+  {
+    "year": 2019,
+    "vehicle_type": "BUS",
+    "damage_to_property": 3962,
+    "fatal": 5,
+    "non_fatal_injury": 307,
+    "grand_total": 4274
+  },
+  {
+    "year": 2019,
+    "vehicle_type": "VAN",
+    "damage_to_property": 6232,
+    "fatal": 7,
+    "non_fatal_injury": 547,
+    "grand_total": 6786
+  },
+  {
+    "year": 2019,
+    "vehicle_type": "TRUCK",
+    "damage_to_property": 5422,
+    "fatal": 30,
+    "non_fatal_injury": 390,
+    "grand_total": 5842
+  },
+  {
+    "year": 2020,
+    "vehicle_type": "BIKE",
+    "damage_to_property": 137,
+    "fatal": 4,
+    "non_fatal_injury": 465,
+    "grand_total": 606
+  },
+  {
+    "year": 2020,
+    "vehicle_type": "MOTORCYCLE",
+    "damage_to_property": 3543,
+    "fatal": 63,
+    "non_fatal_injury": 3532,
+    "grand_total": 7138
+  },
+  {
+    "year": 2020,
+    "vehicle_type": "TRICYCLE",
+    "damage_to_property": 292,
+    "fatal": 4,
+    "non_fatal_injury": 166,
+    "grand_total": 462
+  },
+  {
+    "year": 2020,
+    "vehicle_type": "CAR",
+    "damage_to_property": 14267,
+    "fatal": 26,
+    "non_fatal_injury": 2061,
+    "grand_total": 16354
+  },
+  {
+    "year": 2020,
+    "vehicle_type": "PUJ",
+    "damage_to_property": 714,
+    "fatal": 3,
+    "non_fatal_injury": 129,
+    "grand_total": 846
+  },
+  {
+    "year": 2020,
+    "vehicle_type": "AUV",
+    "damage_to_property": 1477,
+    "fatal": 1,
+    "non_fatal_injury": 288,
+    "grand_total": 1766
+  },
+  {
+    "year": 2020,
+    "vehicle_type": "BUS",
+    "damage_to_property": 1286,
+    "fatal": 8,
+    "non_fatal_injury": 164,
+    "grand_total": 1458
+  },
+  {
+    "year": 2020,
+    "vehicle_type": "VAN",
+    "damage_to_property": 3053,
+    "fatal": 6,
+    "non_fatal_injury": 394,
+    "grand_total": 3453
+  },
+  {
+    "year": 2020,
+    "vehicle_type": "TRUCK",
+    "damage_to_property": 3256,
+    "fatal": 23,
+    "non_fatal_injury": 296,
+    "grand_total": 3575
+  },
+  {
+    "year": 2021,
+    "vehicle_type": "BIKE",
+    "damage_to_property": 180,
+    "fatal": 10,
+    "non_fatal_injury": 396,
+    "grand_total": 586
+  },
+  {
+    "year": 2021,
+    "vehicle_type": "MOTORCYCLE",
+    "damage_to_property": 3936,
+    "fatal": 92,
+    "non_fatal_injury": 4253,
+    "grand_total": 8281
+  },
+  {
+    "year": 2021,
+    "vehicle_type": "TRICYCLE",
+    "damage_to_property": 283,
+    "fatal": 1,
+    "non_fatal_injury": 190,
+    "grand_total": 474
+  },
+  {
+    "year": 2021,
+    "vehicle_type": "CAR",
+    "damage_to_property": 13668,
+    "fatal": 30,
+    "non_fatal_injury": 2378,
+    "grand_total": 16076
+  },
+  {
+    "year": 2021,
+    "vehicle_type": "PUJ",
+    "damage_to_property": 728,
+    "fatal": 4,
+    "non_fatal_injury": 176,
+    "grand_total": 908
+  },
+  {
+    "year": 2021,
+    "vehicle_type": "AUV",
+    "damage_to_property": 1482,
+    "fatal": 5,
+    "non_fatal_injury": 372,
+    "grand_total": 1859
+  },
+  {
+    "year": 2021,
+    "vehicle_type": "BUS",
+    "damage_to_property": 894,
+    "fatal": 17,
+    "non_fatal_injury": 216,
+    "grand_total": 1127
+  },
+  {
+    "year": 2021,
+    "vehicle_type": "VAN",
+    "damage_to_property": 1867,
+    "fatal": 7,
+    "non_fatal_injury": 240,
+    "grand_total": 2114
+  },
+  {
+    "year": 2021,
+    "vehicle_type": "TRUCK",
+    "damage_to_property": 3296,
+    "fatal": 28,
+    "non_fatal_injury": 334,
+    "grand_total": 3658
+  },
+  {
+    "year": 2022,
+    "vehicle_type": "BIKE",
+    "damage_to_property": 543,
+    "fatal": 25,
+    "non_fatal_injury": 1589,
+    "grand_total": 2157
+  },
+  {
+    "year": 2022,
+    "vehicle_type": "MOTORCYCLE",
+    "damage_to_property": 4351,
+    "fatal": 79,
+    "non_fatal_injury": 5103,
+    "grand_total": 9533
+  },
+  {
+    "year": 2022,
+    "vehicle_type": "TRICYCLE",
+    "damage_to_property": 328,
+    "fatal": 3,
+    "non_fatal_injury": 256,
+    "grand_total": 587
+  },
+  {
+    "year": 2022,
+    "vehicle_type": "CAR",
+    "damage_to_property": 16317,
+    "fatal": 39,
+    "non_fatal_injury": 3007,
+    "grand_total": 19363
+  },
+  {
+    "year": 2022,
+    "vehicle_type": "PUJ",
+    "damage_to_property": 1021,
+    "fatal": 3,
+    "non_fatal_injury": 250,
+    "grand_total": 1274
+  },
+  {
+    "year": 2022,
+    "vehicle_type": "AUV",
+    "damage_to_property": 1397,
+    "fatal": 4,
+    "non_fatal_injury": 400,
+    "grand_total": 1801
+  },
+  {
+    "year": 2022,
+    "vehicle_type": "BUS",
+    "damage_to_property": 1105,
+    "fatal": 11,
+    "non_fatal_injury": 234,
+    "grand_total": 1350
+  },
+  {
+    "year": 2022,
+    "vehicle_type": "VAN",
+    "damage_to_property": 1435,
+    "fatal": 3,
+    "non_fatal_injury": 164,
+    "grand_total": 1602
+  },
+  {
+    "year": 2022,
+    "vehicle_type": "TRUCK",
+    "damage_to_property": 3615,
+    "fatal": 38,
+    "non_fatal_injury": 389,
+    "grand_total": 4042
+  }
+]

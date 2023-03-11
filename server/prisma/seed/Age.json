@@ -1,0 +1,177 @@
+[
+  {
+    "year": 2018,
+    "age": "TEEN",
+    "fatal": 11,
+    "non_fatal_injury": 374,
+    "grand_total": 385
+  },
+  {
+    "year": 2018,
+    "age": "YOUNG_ADULT",
+    "fatal": 51,
+    "non_fatal_injury": 2300,
+    "grand_total": 2351
+  },
+  {
+    "year": 2018,
+    "age": "ADULT",
+    "fatal": 26,
+    "non_fatal_injury": 1226,
+    "grand_total": 1252
+  },
+  {
+    "year": 2018,
+    "age": "OLDER_ADULT",
+    "fatal": 14,
+    "non_fatal_injury": 440,
+    "grand_total": 454
+  },
+  {
+    "year": 2018,
+    "age": "ELDER",
+    "fatal": 7,
+    "non_fatal_injury": 108,
+    "grand_total": 115
+  },
+  {
+    "year": 2019,
+    "age": "TEEN",
+    "fatal": 10,
+    "non_fatal_injury": 316,
+    "grand_total": 326
+  },
+  {
+    "year": 2019,
+    "age": "YOUNG_ADULT",
+    "fatal": 50,
+    "non_fatal_injury": 2649,
+    "grand_total": 2699
+  },
+  {
+    "year": 2019,
+    "age": "ADULT",
+    "fatal": 34,
+    "non_fatal_injury": 1546,
+    "grand_total": 1580
+  },
+  {
+    "year": 2019,
+    "age": "OLDER_ADULT",
+    "fatal": 11,
+    "non_fatal_injury": 411,
+    "grand_total": 422
+  },
+  {
+    "year": 2019,
+    "age": "ELDER",
+    "fatal": 5,
+    "non_fatal_injury": 112,
+    "grand_total": 117
+  },
+  {
+    "year": 2020,
+    "age": "TEEN",
+    "fatal": 7,
+    "non_fatal_injury": 134,
+    "grand_total": 141
+  },
+  {
+    "year": 2020,
+    "age": "YOUNG_ADULT",
+    "fatal": 47,
+    "non_fatal_injury": 1950,
+    "grand_total": 1997
+  },
+  {
+    "year": 2020,
+    "age": "ADULT",
+    "fatal": 23,
+    "non_fatal_injury": 1143,
+    "grand_total": 1166
+  },
+  {
+    "year": 2020,
+    "age": "OLDER_ADULT",
+    "fatal": 10,
+    "non_fatal_injury": 280,
+    "grand_total": 290
+  },
+  {
+    "year": 2020,
+    "age": "ELDER",
+    "fatal": 4,
+    "non_fatal_injury": 53,
+    "grand_total": 57
+  },
+  {
+    "year": 2021,
+    "age": "TEEN",
+    "fatal": 5,
+    "non_fatal_injury": 108,
+    "grand_total": 113
+  },
+  {
+    "year": 2021,
+    "age": "YOUNG_ADULT",
+    "fatal": 55,
+    "non_fatal_injury": 2242,
+    "grand_total": 2297
+  },
+  {
+    "year": 2021,
+    "age": "ADULT",
+    "fatal": 38,
+    "non_fatal_injury": 1402,
+    "grand_total": 1440
+  },
+  {
+    "year": 2021,
+    "age": "OLDER_ADULT",
+    "fatal": 13,
+    "non_fatal_injury": 344,
+    "grand_total": 357
+  },
+  {
+    "year": 2021,
+    "age": "ELDER",
+    "fatal": 3,
+    "non_fatal_injury": 69,
+    "grand_total": 72
+  },
+  {
+    "year": 2022,
+    "age": "TEEN",
+    "fatal": 7,
+    "non_fatal_injury": 242,
+    "grand_total": 249
+  },
+  {
+    "year": 2022,
+    "age": "YOUNG_ADULT",
+    "fatal": 64,
+    "non_fatal_injury": 2614,
+    "grand_total": 2678
+  },
+  {
+    "year": 2022,
+    "age": "ADULT",
+    "fatal": 28,
+    "non_fatal_injury": 1664,
+    "grand_total": 1692
+  },
+  {
+    "year": 2022,
+    "age": "OLDER_ADULT",
+    "fatal": 22,
+    "non_fatal_injury": 493,
+    "grand_total": 515
+  },
+  {
+    "year": 2022,
+    "age": "ELDER",
+    "fatal": 7,
+    "non_fatal_injury": 100,
+    "grand_total": 107
+  }
+]

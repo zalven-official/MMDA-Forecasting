@@ -1,0 +1,195 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+    provider = "prisma-client-js"
+}
+
+datasource db {
+    provider = "postgresql"
+    url      = env("DATABASE_URL")
+}
+
+// User 
+model User {
+    id              Int      @id @default(autoincrement())
+    name            String
+    email           String   @unique
+    role            RoleEnum @default(USER)
+    password        String
+    logged_in       Boolean  @default(true)
+    logged_time     DateTime @default(now())
+    description     String?
+    profile_picture Bytes?
+
+    createdHourly Hourly[] @relation("CreatedHourly")
+    updatedHourly Hourly[] @relation("UpdatedHourly")
+
+    createdMonthly Monthly[] @relation("CreatedMonthly")
+    updatedMonthly Monthly[] @relation("UpdatedMonthly")
+
+    createdCollisionType CollisionType[] @relation("CreatedCollisionType")
+    updatedCollisionType CollisionType[] @relation("UpdatedCollisionType")
+
+    createdAge Age[] @relation("CreatedAge")
+    updatedAge Age[] @relation("UpdatedAge")
+
+    createdVehicleType VehicleType[] @relation("CreatedVehicleType")
+    updatedVehicleType VehicleType[] @relation("UpdatedVehicleType")
+}
+
+model Hourly {
+    id                 Int    @id @default(autoincrement())
+    year               Int
+    time_hour          String
+    damage_to_property Int?
+    fatal              Int?
+    non_fatal_injury   Int?
+    grand_total        Int
+
+    // ================================================
+    created_at    DateTime @default(now())
+    created_by    User     @relation("CreatedHourly", fields: [created_by_id], references: [id])
+    created_by_id Int
+    updated_at    DateTime @updatedAt
+    updated_by    User     @relation("UpdatedHourly", fields: [updated_by_id], references: [id])
+    updated_by_id Int
+    file          Bytes?
+    description   String?
+}
+
+model Monthly {
+    id                 Int       @id @default(autoincrement())
+    year               Int
+    month              MonthEnum
+    damage_to_property Int?
+    fatal              Int?
+    non_fatal_injury   Int?
+    grand_total        Int
+
+    // ================================================
+    created_at    DateTime @default(now())
+    created_by    User     @relation("CreatedMonthly", fields: [created_by_id], references: [id])
+    created_by_id Int
+    updated_at    DateTime @updatedAt
+    updated_by    User     @relation("UpdatedMonthly", fields: [updated_by_id], references: [id])
+    updated_by_id Int
+    description   String?
+    file          Bytes?
+}
+
+model CollisionType {
+    id                 Int               @id @default(autoincrement())
+    year               Int
+    collision_type     CollisionTypeEnum @default(HIT_AND_RUN)
+    damage_to_property Int?
+    fatal              Int?
+    non_fatal_injury   Int?
+    grand_total        Int
+
+    // ================================================
+    created_at    DateTime @default(now())
+    created_by    User     @relation("CreatedCollisionType", fields: [created_by_id], references: [id])
+    created_by_id Int
+    updated_at    DateTime @updatedAt
+    updated_by    User     @relation("UpdatedCollisionType", fields: [updated_by_id], references: [id])
+    updated_by_id Int
+    description   String?
+    file          Bytes?
+}
+
+model Age {
+    id                 Int         @id @default(autoincrement())
+    year               Int
+    age                AgeTypeEnum @default(TEEN)
+    damage_to_property Int?
+    fatal              Int?
+    non_fatal_injury   Int?
+    grand_total        Int
+
+    // ================================================
+    created_at    DateTime @default(now())
+    created_by    User     @relation("CreatedAge", fields: [created_by_id], references: [id])
+    created_by_id Int
+    updated_at    DateTime @updatedAt
+    updated_by    User     @relation("UpdatedAge", fields: [updated_by_id], references: [id])
+    updated_by_id Int
+    description   String?
+    file          Bytes?
+}
+
+model VehicleType {
+    id                 Int             @id @default(autoincrement())
+    year               Int
+    vehicle_type       VehicleTypeEnum @default(CAR)
+    damage_to_property Int?
+    fatal              Int?
+    non_fatal_injury   Int?
+    grand_total        Int
+
+    // ================================================
+    created_at    DateTime @default(now())
+    created_by    User     @relation("CreatedVehicleType", fields: [created_by_id], references: [id])
+    created_by_id Int
+    updated_at    DateTime @updatedAt
+    updated_by    User     @relation("UpdatedVehicleType", fields: [updated_by_id], references: [id])
+    updated_by_id Int
+    description   String?
+    file          Bytes?
+}
+
+enum RoleEnum {
+    USER
+    STUDENT
+    ADMIN
+}
+
+enum MonthEnum {
+    JANUARY
+    FEBUARY
+    MARCH
+    APRIL
+    MAY
+    JUNE
+    JULY
+    AUGUST
+    SEPTEMBER
+    OCTOBER
+    NOVEMBER
+    DECEMBER
+}
+
+enum VehicleTypeEnum {
+    BIKE
+    MOTORCYCLE
+    TRICYCLE
+    CAR
+    PUJ
+    AUV
+    BUS
+    VAN
+    TRUCK
+}
+
+enum AgeTypeEnum {
+    TEEN
+    YOUNG_ADULT
+    ADULT
+    OLDER_ADULT
+    ELDER
+}
+
+enum CollisionTypeEnum {
+    ANGLE_IMPACT
+    HEAD_ON
+    HIT_AND_RUN
+    HIT_PEDESTRIAN
+    HIT_PARKED_VEHICLE
+    MULTIPLE_COLLISION
+    REAR_END
+    SIDE_SWIPE
+    HIT_OBJECT
+    NO_COLLISION_STATED
+    NOT_STATED
+    SELF_ACCIDENT
+}
